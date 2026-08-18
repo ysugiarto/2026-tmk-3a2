@@ -1,1 +1,3 @@
 Ini adalah proyek pertama.
+
+Ini adalah kode kedua.
